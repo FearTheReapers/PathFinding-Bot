@@ -1,4 +1,4 @@
-import random
+    import random
 
 import sc2
 from sc2 import Race, Difficulty
