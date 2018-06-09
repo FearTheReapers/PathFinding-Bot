@@ -1,5 +1,4 @@
 import sc2
-
 import random
 from collections import defaultdict
 from sc2.constants import *
